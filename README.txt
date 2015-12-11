@@ -1,5 +1,7 @@
 Coded by Edward Selig
-This program was a project for my embedded systems class.  It is meant to simulate a drone collision avoidance system by using multi-threading and mutexes.  I received an 100% on the project.
+This program was a project for my embedded systems class during the Fall 2015 semester.
+It is meant to simulate a drone collision avoidance system by using multi-threading and mutexes.
+I received an 100% on the project.
 The program can be compiled by typing "make".  The program can be executed by typing
 ./DroneMap "Input File".  The valid input files are "level0.txt", "level1a.txt", 
 "level1b.txt", "level2.txt".  In level 0 there is only one drone going back and return on
